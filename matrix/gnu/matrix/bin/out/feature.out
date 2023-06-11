@@ -1,0 +1,5 @@
+#!/bin/out
+freebasic="/compiler/"
+debugger="errors"
+features="/features/"
+output="apply"
